@@ -1,0 +1,36 @@
+###########
+# site.url, site.title
+
+url:   'http://planetruby.github.io'
+title: 'Planet Ruby'
+
+########
+# more settings
+
+markdown: kramdown
+
+collections:
+  links:
+    output: true
+  books:
+    output: true
+  apps:
+    output: true
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+
+###
+# todo/check:
+#   possible to exclude *.ini ???
+
+exclude:
+- README.md
+- NOTES.md
+
+
+safe: true
+lsi: false
+

@@ -1,2 +1,3 @@
-# planetruby.github.io
-planet ruby site
+
+planet ruby site - [`planetruby.github.io`](http://planetruby.github.io)
+

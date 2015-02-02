@@ -4,7 +4,7 @@ layout: null
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Ruby Books 'n' Screencasts | {{ site.title }}</title>
-  <link href="{{ site.url }}/books/atom.xml" rel="self"/>
+  <link href="{{ site.url }}/books/feed.xml" rel="self"/>
   <link href="{{ site.url }}/books/"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   <id>{{ site.url }}/books/</id>
