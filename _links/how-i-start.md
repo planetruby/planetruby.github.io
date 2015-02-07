@@ -1,8 +1,8 @@
 ---
-layout:      link
-title:       "How I Start Series - Ruby Edition - Let's build a Ruby gem together"
-date:        2015-01-24 11:11
-screenshoot: screenshot-how-i-start-320x240.png
+layout:     link
+title:      "How I Start Series - Ruby Edition - Let's build a Ruby gem together"
+date:       2015-01-24 11:11
+screenshot: screenshot-how-i-start-320x240.png
 ---
 
 ## [{{page.title}}](http://www.howistart.org/posts/ruby/1)

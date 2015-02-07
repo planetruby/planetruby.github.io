@@ -1,8 +1,8 @@
 ---
-layout:      link
-title:       "Learn Ruby in Y Minutes - A whirlwind tour of Ruby - learnruby.rb"
-date:        2015-01-24 14:14
-screenshoot: screenshot-learn-x-in-y-320x240.png
+layout:     link
+title:      "Learn Ruby in Y Minutes - A whirlwind tour of Ruby - learnruby.rb"
+date:       2015-01-24 14:14
+screenshot: screenshot-learn-x-in-y-320x240.png
 ---
 
 ## [{{page.title}}](http://learnxinyminutes.com/docs/ruby/)
