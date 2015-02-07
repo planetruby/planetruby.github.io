@@ -2,11 +2,12 @@
 layout: book
 title:  "Effective Ruby: 48 Specific Ways to Write Better Ruby by Peter J. Jones"
 date:   2015-01-23 10:10
+cover:  book-effective-ruby.jpg
 ---
 
 ## {{page.title}}
 
-<img src="{{site.url}}/i/book-effective-ruby.jpg" alt="" style="float: left;">
+<img src="{{site.url}}/i/{{page.cover}" alt="" style="float: left; margin:0 15px 0 0;">
 
 Effective Ruby includes chapters on writing better Ruby on:
 
