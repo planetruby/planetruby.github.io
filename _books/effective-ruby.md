@@ -7,7 +7,7 @@ cover:  book-effective-ruby.jpg
 
 ## {{page.title}}
 
-<img src="{{site.url}}/i/{{page.cover}}" alt="" style="float: left; margin:0 30px 0 0;">
+{{ include cover.html }}
 
 Effective Ruby includes chapters on writing better Ruby on:
 

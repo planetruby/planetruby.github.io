@@ -7,6 +7,8 @@ screenshot: screenshot-how-i-start-320x240.png
 
 ## [{{page.title}}](http://www.howistart.org/posts/ruby/1)
 
+{{ include screenshot.html }}
+
 The How I Start Series - Ruby Edition shows you how to
 build your own gem in ten steps:
 

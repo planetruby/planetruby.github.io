@@ -7,7 +7,7 @@ cover:  book-engineering-software-as-a-service.jpg
 
 ## {{page.title}}
 
-<img src="{{site.url}}/i/{{page.cover}}" alt="" style="float: left; margin:0 30px 0 0;">
+{{ include cover.html }}
 
 Engineering Software as a Service: An Agile Approach Using Cloud Computing
 includes chapters on:
