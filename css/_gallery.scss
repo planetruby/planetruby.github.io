@@ -1,6 +1,6 @@
 
-
 .gallery {
+
   div.link,
   div.book,
   div.app,
@@ -14,12 +14,15 @@
   }
 
   div.link-title,
-  div.app-title {
+  div.app-title,
+  div.book-title,
+  div.theme-title {
     margin-bottom: 10px;
   }
-  div.link-img,
-  div.app-img {
+
+   .link-img img,
+    .app-img img,
+  .theme-img img {
     border: 1px solid #bbb;
   }
 }
-
