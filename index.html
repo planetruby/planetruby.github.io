@@ -19,11 +19,11 @@ title:  "Ruby Links 'n' Bookmarks"
 
   <div class='link' style='display: inline-block; vertical-align: top; text-align: center; width: 300px;'>
     <a href="{{ site.url }}{{ link.url }}">
-      <img src="{{site.url}}/i/{{link.screenshot}}">
+      {{ link.title }}
     </a>
     <br>
     <a href="{{ site.url }}{{ link.url }}">
-      {{ link.title }}
+      <img src="{{site.url}}/i/{{link.screenshot}}">
     </a>
   </div>
 

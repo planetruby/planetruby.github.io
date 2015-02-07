@@ -6,11 +6,12 @@
   div.app,
   div.theme {
     display: inline-block;
-    width: 300px;
+    width: 330px;   // note: assume img w/ 320x240
     margin-right: 15px;
     margin-bottom: 15px;
     vertical-align: top;
     text-align: center;
+    border: 1px solid #bbb;
   }
 }
 
