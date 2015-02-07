@@ -13,10 +13,12 @@
     text-align: center;
   }
 
-  div.link-title {
+  div.link-title,
+  div.app-title {
     margin-bottom: 10px;
   }
-  div.link-img {
+  div.link-img,
+  div.app-img {
     border: 1px solid #bbb;
   }
 }

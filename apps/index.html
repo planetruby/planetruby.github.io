@@ -18,13 +18,16 @@ title:  "Open Source Ruby 'n' Rails Apps"
 {% for app in site.apps %}
 
   <div class='app'>
-    <a href="{{ site.url }}{{ app.url }}">
-      {{ app.title }}
-    </a>
-    <br>
-    <a href="{{ site.url }}{{ app.url }}">
-      <img src="{{site.url}}/i/{{app.screenshot}}">
-    </a>
+    <div class='app-title'>
+      <a href="{{ site.url }}{{ app.url }}">
+        {{ app.title }}
+      </a>
+    </div>
+    <div class='app-img'>
+      <a href="{{ site.url }}{{ app.url }}">
+        <img src="{{site.url}}/i/{{app.screenshot}}">
+      </a>
+    </div>
   </div>
 
 {% endfor %}
