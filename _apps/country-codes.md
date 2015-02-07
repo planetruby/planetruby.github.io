@@ -1,7 +1,8 @@
 ---
-layout: app
-title:  "world.db.codes - 250 Country Codes (Alpha2, Alpha3, TLDs, etc.) - Sinatra Web App"
-date:   2015-01-24 10:10
+layout:     app
+title:      "world.db.codes - 250 Country Codes (Alpha2, Alpha3, TLDs, etc.) - Sinatra Web App"
+date:       2015-01-24 10:10
+screenshot: screenshot-country-codes-320x240.png
 ---
 
 ## {{page.title}}

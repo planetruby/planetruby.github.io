@@ -1,7 +1,8 @@
 ---
-layout: app
-title:  "Beer-A-Day - Open Data 'Eternal' Page-A-Day Calendar - beer.db Web App in Ruby on Rails"
-date:   2015-01-23 17:17
+layout:     app
+title:      "Beer-A-Day - Open Data 'Eternal' Page-A-Day Calendar - beer.db Web App in Ruby on Rails"
+date:       2015-01-23 17:17
+screenshot: screenshot-beer-a-day-320x240.png
 ---
 
 ## {{page.title}}

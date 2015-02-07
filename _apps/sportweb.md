@@ -1,7 +1,8 @@
 ---
-layout: app
-title:  "sportweb - Instant Open Sports Web Browser (Server) e.g. Use $ sportweb football.db"
-date:   2015-01-24 11:11
+layout:     app
+title:      "sportweb - Instant Open Sports Web Browser (Server) e.g. Use $ sportweb football.db"
+date:       2015-01-24 11:11
+screenshot: screenshot-sportweb-320x240.png
 ---
 
 ## {{page.title}}

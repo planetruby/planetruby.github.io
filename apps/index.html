@@ -3,25 +3,30 @@ layout: default
 title:  "Open Source Ruby 'n' Rails Apps"
 ---
 
+<p>
+  Subscribe to the <a href="{{ site.url }}/apps/feed.xml">{{ page.title}} News Feed »</a>
+</p>
+
+
 <h1>{{ page.title }}</h1>
 
 
- {% include welcome-apps.html %}
+{% include welcome-apps.html %}
 
 
+<div class='gallery'>
 {% for app in site.apps %}
-<div class='post'>
-  <header class='post-header'>
-    <a href="{{ site.url }}{{ app.url }}">
-      <span class='post-title'>{{ app.title }}</span>
-    </a>
- <!--
- <p class='post-meta'>{{ link.date | date: "%b %-d, %Y" }}</p>
- -->
-  </header>
 
-  <article class='post-content'>
-    <!-- todo -- use excerpt ??? -->
-  </article>
-</div>
+  <div class='link' style='display: inline-block; vertical-align: top; text-align: center; width: 300px;'>
+    <a href="{{ site.url }}{{ app.url }}">
+      <img src="{{site.url}}/i/{{app.screenshot}}">
+    </a>
+    <br>
+    <a href="{{ site.url }}{{ app.url }}">
+      {{ app.title }}
+    </a>
+  </div>
+
 {% endfor %}
+</div>
+
