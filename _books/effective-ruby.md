@@ -6,7 +6,7 @@ date:   2015-01-23 10:10
 
 ## {{page.title}}
 
-![]({{site.url}}/i/book-effective-ruby.jpg)
+<img src="{{site.url}}/i/book-effective-ruby.jpg" alt="" style="float: left;">
 
 Effective Ruby includes chapters on writing better Ruby on:
 
