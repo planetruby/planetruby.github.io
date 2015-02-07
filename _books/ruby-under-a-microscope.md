@@ -7,7 +7,7 @@ cover:  book-ruby-under-a-microscope.png
 
 ## {{page.title}}
 
-<img src="{{site.url}}/i/{{page.cover}}" alt="" style="float: left; margin:0 30px 0 0;">
+{% include cover.html %}
 
 Ruby Under a Microscope includes chapters on how the Ruby machinery
 works under the hood with many diagrams and hands-on examples on:

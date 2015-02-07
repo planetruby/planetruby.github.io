@@ -3,9 +3,12 @@ layout:     link
 title:      "The Ruby Bibliography - Programming Language Research Papers 'n' Articles"
 date:       2015-01-23 10:10
 screenshot: screenshot-rubybib-320x240.png
+link_url:   http://rubybib.org
 ---
 
-## [{{page.title}}](http://rubybib.org)
+## [{{page.title}}]({{page.link_url}})
+
+{% include screenshot.html %}
 
 The Ruby Bibliograpy lists peer-reviewed research papers and articles
 about modern programming language research 

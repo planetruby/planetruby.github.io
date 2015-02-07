@@ -7,7 +7,8 @@ screenshot: screenshot-beer-a-day-320x240.png
 
 ## {{page.title}}
 
-<!-- todo: add screen shoot -->
+{% include screenshot.html %}
+
 
 What's the Beer-A-Day Calendar?
 

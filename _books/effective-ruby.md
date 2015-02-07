@@ -7,7 +7,7 @@ cover:  book-effective-ruby.jpg
 
 ## {{page.title}}
 
-{{ include cover.html }}
+{% include cover.html %}
 
 Effective Ruby includes chapters on writing better Ruby on:
 

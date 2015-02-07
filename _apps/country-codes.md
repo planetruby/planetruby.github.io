@@ -7,7 +7,8 @@ screenshot: screenshot-country-codes-320x240.png
 
 ## {{page.title}}
 
-<!-- todo: add screen shoot -->
+{% include screenshot.html %}
+
 
 What's `world.db.codes`?
 

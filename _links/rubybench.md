@@ -3,9 +3,12 @@ layout:     link
 title:      "RubyBench - Long Running Ruby Benchmark"
 date:       2015-01-24 10:10
 screenshot: screenshot-rubybench-320x240.png
+link_url:   http://rubybench.org
 ---
 
-## [{{page.title}}](http://rubybench.org)
+## [{{page.title}}]({{page.link_url}})
+
+{% include screenshot.html %}
 
 RubyBench is a long running Ruby benchmark.
 Currently, Ruby benchmark scripts and Discourse benchmark scripts

@@ -7,7 +7,7 @@ cover:  book-learn-ruby-the-hard-way.jpg
 
 ## {{page.title}}
 
-<img src="{{site.url}}/i/{{page.cover}}" alt="" style="float: left; margin:0 30px 0 0;">
+{% include cover.html %}
 
 Learn Ruby the Hard Way let's you
 learn Ruby by working through fifty-two exercises
