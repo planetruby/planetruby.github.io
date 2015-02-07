@@ -6,18 +6,18 @@
   div.app,
   div.theme {
     display: inline-block;
-    width: 330+16px;   // note: assume img w/ 320x240 plus add margin+border
+    width: 330+15px;   // note: assume img w/ 320x240 plus add margin+border
     margin-right: 15px;
     margin-bottom: 15px;
     vertical-align: top;
     text-align: center;
-    border: 1px solid #bbb;
   }
-  
+
   div.link-title {
     margin-bottom: 10px;
   }
   div.link-img {
+    border: 1px solid #bbb;
   }
 }
 
