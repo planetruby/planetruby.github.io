@@ -17,14 +17,17 @@ title:  "Ruby Links 'n' Bookmarks"
 <div class='gallery'>
 {% for link in site.links %}
 
-  <div class='link' style='display: inline-block; vertical-align: top; text-align: center; width: 300px;'>
-    <a href="{{ site.url }}{{ link.url }}">
-      {{ link.title }}
-    </a>
-    <br>
-    <a href="{{ site.url }}{{ link.url }}">
-      <img src="{{site.url}}/i/{{link.screenshot}}">
-    </a>
+  <div class='link'>
+    <div class='link-title'>
+      <a href="{{ site.url }}{{ link.url }}">
+        {{ link.title }}
+      </a>
+    </div>
+    <div class='link-img'>
+      <a href="{{ site.url }}{{ link.url }}">
+        <img src="{{site.url}}/i/{{link.screenshot}}">
+      </a>
+    </div>
   </div>
 
 {% endfor %}
