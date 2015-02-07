@@ -13,12 +13,12 @@ title:  "Ruby Books 'n' Screencasts"
 {% for book in site.books %}
 
   <div class='book' style='display: inline-block; text-align: center;'>
-    <a href="{{ site.url }}{{ post.url }}">
-      <img src="{{site.url}}/i/{{post.cover}}">
+    <a href="{{ site.url }}{{ book.url }}">
+      <img src="{{site.url}}/i/{{book.cover}}">
     </a>
     <br>
-    <a href="{{ site.url }}{{ post.url }}">
-      {{ post.title }}
+    <a href="{{ site.url }}{{ book.url }}">
+      {{ book.title }}
     </a>
   </div>
 
