@@ -1,7 +1,8 @@
 ---
-layout: link
-title:  "The Ruby Bibliography - Programming Language Research Papers 'n' Articles"
-date:   2015-01-23 10:10
+layout:     link
+title:      "The Ruby Bibliography - Programming Language Research Papers 'n' Articles"
+date:       2015-01-23 10:10
+screenshot: screenshot-rubybib-320x240.png
 ---
 
 ## [{{page.title}}](http://rubybib.org)

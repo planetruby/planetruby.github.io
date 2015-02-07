@@ -1,7 +1,8 @@
 ---
-layout: link
-title:  "Ruby Quick Reference - Language, Standard Library, Tools"
-date:   2015-01-24 12:12
+layout:     link
+title:      "Ruby Quick Reference - Language, Standard Library, Tools"
+date:       2015-01-24 12:12
+screenshot: screenshot-rubyquickref-320x240.png
 ---
 
 ## [{{page.title}}](http://www.zenspider.com/Languages/Ruby/QuickRef.html)

@@ -1,7 +1,8 @@
 ---
-layout: link
-title:  "Practicing Ruby - Delightful lessons for dedicated programmers"
-date:   2015-01-24 17:17
+layout:     link
+title:      "Practicing Ruby - Delightful lessons for dedicated programmers"
+date:       2015-01-24 17:17
+screenshot: screenshot-practicing-ruby-320x240.png
 ---
 
 ## [{{page.title}}](https://practicingruby.com)

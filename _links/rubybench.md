@@ -1,7 +1,8 @@
 ---
-layout: link
-title:  "RubyBench - Long Running Ruby Benchmark"
-date:   2015-01-24 10:10
+layout:     link
+title:      "RubyBench - Long Running Ruby Benchmark"
+date:       2015-01-24 10:10
+screenshot: screenshot-rubybench-320x240.png
 ---
 
 ## [{{page.title}}](http://rubybench.org)
