@@ -78,6 +78,15 @@
   publisher: Pragmatic Bookshelf
   pages:     224 pages
 
+- title:      "Programming Ruby 1.9 & 2.0: The Pragmatic Programmers' Guide"
+  edition:    4th Edition
+  author:     Dave Thomas, Andy Hunt, Chad Fowler
+  cover:      programming-ruby.jpg
+  publisher:  Pragmatic Bookshelf
+  date:       Jul 2013
+  pages:      888 pages
+
+
 #############
 # 2011
 
@@ -115,7 +124,14 @@
   date:      Nov 2008
   pages:     224 pages
 
- 
+- title:     "The Ruby Programming Language"
+  author:    David Flanagan, Yukihiro Matsumoto
+  cover:     the-ruby-programming-language.jpg
+  publisher: O'Reilly Media
+  date:      Feb 2008
+  pages:     448 pages
+
+
 #####################
 # 2007
 
@@ -132,5 +148,4 @@
   publisher: O'Reilly Media
   date:      July 2007
   pages:     178 pages
-
 
