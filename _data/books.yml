@@ -1,5 +1,17 @@
 #################
 # Ruby Books
+#
+
+##############
+# 2015
+
+- title:     "RESTful Rails Development"
+  subtitle:  Building Open Applications and Services  
+  author:    Silvia Puglisi
+  cover:     restful-rails-development.jpg
+  publisher: O'Reilly Media
+  date:      May 2015
+  pages:     350 pages
 
 - title:     "Ruby on Rails Tutorial: Learn Web Development with Rails"
   edition:   3rd Edition
@@ -50,6 +62,14 @@
   publisher: Addison-Wesley Professional (Effective Software Development Series)
   date:      Sep 2014 
   pages:     240 pages
+
+- title:     "Metaprogramming Ruby 2"
+  subtitle:  Program Like the Ruby Pros
+  author:    Paolo Perrotta
+  cover:     metaprogramming-ruby-2.jpg
+  publisher: Pragmatic Bookshelf
+  date:      Aug 2014
+  pages:     250 pages
 
 - title:     The Rails 4 Way
   edition:   3rd Edition
@@ -191,6 +211,13 @@
   date:      Nov 2008
   pages:     224 pages
 
+- title:     "Practical Rails Plugins"
+  author:    Nick Plante, David Berube
+  cover:     practical-rails-plugins.jpg
+  publisher: Apress
+  date:      Sep 2008
+  pages:     512 pages
+
 - title:     Advanced Rails Recipes
   author:    Mike Clark
   cover:     advanced-rails-recipes.jpg
@@ -216,6 +243,13 @@
   date:      July 2007
   pages:     178 pages
 
+- title:     "RailsSpace: Building a Social Networking Website with Ruby on Rails"
+  author:    Michael Hartl, Aurelius Prochazka
+  cover:     railsspace.jpg
+  publisher: Addison-Wesley Professional (Ruby Series) 
+  date:      July 2007 
+  pages:     537 pages
+
 - title:     Practical Rails Social Networking Sites 
   author:    Alan Bradburne
   cover:     practical-rails-social-networking-sites.jpg
@@ -229,4 +263,29 @@
   publisher: Apress
   date:      Apr 2007
   pages:     271 pages
+
+- title:     Rails Cookbook
+  author:    Rob Orsini
+  cover:     rails-cookbook.jpg
+  publisher: O'Reilly Media
+  date:      Jan 2007
+  pages:     544 pages
+
+
+###########################
+# 2006
+
+- title:     "Beginning Ruby on Rails E-Commerce"
+  author:    Jarkko Laine, Christian Hellsten
+  cover:     beginning-ruby-on-rails-e-commerce.jpg
+  publisher: Apress
+  date:      Nov 2006
+  pages:     448 pages
+
+- title:     "Ruby on Rails: Up and Running"
+  author:    Bruce Tate, Curt Hibbs
+  cover:     ruby-on-rails-up-and-running.jpg
+  publisher: O'Reilly Media
+  date:      Aug 2006
+  pages:     192 pages
 
