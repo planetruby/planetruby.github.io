@@ -1,6 +1,14 @@
 #################
 # Ruby Books
 
+- title:     "Ruby on Rails Tutorial: Learn Web Development with Rails"
+  edition:   3rd Edition
+  author:    Michael Hartl
+  cover:     ruby-on-rails-tutorial.jpg
+  publisher: Addison-Wesley Professional (Ruby Series)
+  date:      Apr 2015
+  pages:     736 pages
+
 - title:     "The Ruby Way: Solutions and Techniques in Ruby Programming"
   edition:   3rd Edition
   author:    Hal Fulton, André Arko
@@ -52,7 +60,7 @@
   pages:     880 pages
 
 - title:     "Engineering Software as a Service: An Agile Approach Using Cloud Computing"
-  author:    Armando Fox and David Patterson 
+  author:    Armando Fox, David Patterson 
   cover:     engineering-software-as-a-service.jpg
   publisher: Strawberry Canyon
   date:      Jan 2014
@@ -78,13 +86,28 @@
   publisher: Pragmatic Bookshelf
   pages:     224 pages
 
-- title:      "Programming Ruby 1.9 & 2.0: The Pragmatic Programmers' Guide"
-  edition:    4th Edition
-  author:     Dave Thomas, Andy Hunt, Chad Fowler
-  cover:      programming-ruby.jpg
-  publisher:  Pragmatic Bookshelf
-  date:       Jul 2013
-  pages:      888 pages
+- title:     "Crafting Rails 4 Applications"
+  subtitle:  Expert Practices for Everyday Rails Development
+  author:    José Valim 
+  cover:     crafting-rails-4-applications.jpg
+  publisher: Pragmatic Bookshelf
+  date:      Nov 2013
+  pages:     200 pages
+
+- title:     "Agile Web Development with Rails 4"
+  author:    Sam Ruby, Dave Thomas, David Heinemeier Hansson
+  cover:     agile-web-development-with-rails-4.jpg
+  publisher: Pragmatic Bookshelf
+  date:      Oct 2013
+  pages:     480 pages
+
+- title:     "Programming Ruby 1.9 & 2.0: The Pragmatic Programmers' Guide"
+  edition:   4th Edition
+  author:    Dave Thomas, Andy Hunt, Chad Fowler
+  cover:     programming-ruby.jpg
+  publisher: Pragmatic Bookshelf
+  date:      Jul 2013
+  pages:     888 pages
 
 ###################
 # 2012
@@ -107,6 +130,13 @@
 #############
 # 2011
 
+- title:     "Sinatra: Up and Running"
+  author:    Alan Harris, Konstantin Haase
+  cover:     sinatra-up-and-running.jpg
+  publisher: O'Reilly Media
+  date:      Dec 2011
+  pages:     122 pages
+
 - title:     "Eloquent Ruby"
   author:    Russ Olsen
   cover:     eloquent-ruby.jpg
@@ -120,6 +150,18 @@
   publisher: Pragmatic Bookshelf
   date:      Feb 2011
   pages:     300 pages
+
+
+#####################
+# 2010
+
+- title:     "Service-Oriented Design with Ruby and Rails"
+  author:    Paul Dix
+  cover:     service-oriented-design-with-ruby-and-rails.jpg
+  publisher: Addison-Wesley Professional (Ruby Series)
+  date:      Aug 2010
+  pages:     320 pages
+
 
 ####################
 # 2009
