@@ -2,7 +2,7 @@
 layout: book
 title:  "Ruby Under a Microscope - An Illustrated Guide to Ruby Internals by Pat Shaughnessy"
 date:   2015-01-24 10:10
-cover:  book-ruby-under-a-microscope.png
+cover:  ruby-under-a-microscope.png
 ---
 
 ## {{page.title}}
