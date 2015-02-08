@@ -14,10 +14,10 @@ title:  "Ruby Books 'n' Screencasts"
 
 {% include welcome-books.html %}
 
+<h2>Ruby</h2>
 
 <div class='gallery'>
-{% for book in site.data.books %}
-
+{% for book in site.data.books-ruby %}
   <div class='book'>
     <div class='book-img'>
         <!-- note: scale image to 200px height -->
@@ -31,6 +31,26 @@ title:  "Ruby Books 'n' Screencasts"
         {{ book.pages}}
     </div>
   </div>
+{% endfor %}
+</div>
 
+
+<h2>Ruby on Rails</h2>
+
+<div class='gallery'>
+{% for book in site.data.books-rails %}
+  <div class='book'>
+    <div class='book-img'>
+        <!-- note: scale image to 200px height -->
+        <img src="{{site.url}}/i/books/{{book.cover}}" style="height: 200px; width: auto;">
+    </div>
+    <div class='book-title'>
+        <b>{{ book.title }}</b> by
+        {{ book.author }};
+        {{ book.publisher }},
+        {{ book.date }};
+        {{ book.pages}}
+    </div>
+  </div>
 {% endfor %}
 </div>
