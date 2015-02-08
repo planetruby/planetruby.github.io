@@ -1,0 +1,18 @@
+#################
+# Ruby Books
+
+- title:     "Effective Ruby: 48 Specific Ways to Write Better Ruby"
+  author:    Peter J. Jones
+  cover:     book-effective-ruby.jpg
+  publisher: Addison-Wesley Professional (in the Effective Software Development Series)
+  date:      Sep 2014 
+  pages:     240 pages
+
+- title:     "Engineering Software as a Service: An Agile Approach Using Cloud Computing"
+  author:    Armando Fox and David Patterson 
+  cover:     book-engineering-software-as-a-service.jpg
+  publisher: Strawberry Canyon
+  date:      Jan 2014
+  pages:     504 pages
+
+

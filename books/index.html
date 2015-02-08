@@ -16,18 +16,18 @@ title:  "Ruby Books 'n' Screencasts"
 
 
 <div class='gallery'>
-{% for book in site.books %}
+{% for book in site.data.books %}
 
   <div class='book'>
     <div class='book-img'>
-      <a href="{{ site.url }}{{ book.url }}">
-        <img src="{{site.url}}/i/{{book.cover}}">
-      </a>
+        <!-- note: scale image to 200px height -->
+        <img src="{{site.url}}/i/books/{{book.cover}}" style="height: 200px; width: auto;">
     </div>
     <div class='book-title'>
-      <a href="{{ site.url }}{{ book.url }}">
-        {{ book.title }}
-      </a>
+        {{ book.title }} by
+        {{ book.authors }};
+        {{ book.publisher }} ({{ book.date }}),
+        {{ book.pages}}
     </div>
   </div>
 

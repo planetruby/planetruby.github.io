@@ -6,11 +6,22 @@
   div.app,
   div.theme {
     display: inline-block;
-    width: 330+15px;   // note: assume img w/ 320x240 plus add margin+border
-    margin-right: 15px;
-    margin-bottom: 15px;
     vertical-align: top;
     text-align: center;
+  }
+
+  div.link,
+  div.app,
+  div.theme {  
+    width: 330+15px;   // note: add margin+border
+    margin-right: 15px;
+    margin-bottom: 15px;
+  }
+
+  div.book {
+    width: 200+10px;     // note: add margin+border
+    margin-right: 10px;
+    margin-bottom: 10px;    
   }
 
   div.link-title,
