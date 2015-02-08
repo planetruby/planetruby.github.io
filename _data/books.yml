@@ -4,7 +4,7 @@
 - title:     "Effective Ruby: 48 Specific Ways to Write Better Ruby"
   author:    Peter J. Jones
   cover:     effective-ruby.jpg
-  publisher: Addison-Wesley Professional (in the Effective Software Development Series)
+  publisher: Addison-Wesley Professional (Effective Software Development Series)
   date:      Sep 2014 
   pages:     240 pages
 
@@ -15,4 +15,42 @@
   date:      Jan 2014
   pages:     504 pages
 
+
+- title:     "Build Awesome Command-Line Applications in Ruby"
+  subtitle:  Control Your Computer, Simplify Your Life
+  author:    David B. Copeland 
+  cover:     build-command-line-apps-in-ruby.jpg
+  date:      Nov 2013
+  publisher: Pragmatic Bookshelf
+  edition:   2nd Edition  
+  pages:     224 pages
+
+- title:     "Ruby Best Practices"
+  author:    Gregory T Brown
+  cover:     ruby-best-practices.jpg
+  date:      June 2009
+  publisher: O'Reilly Media
+  pages:     336 pages
+
+- title:     "Rails Crash Course: A No-Nonsense Guide to Rails Development"
+  author:    Anthony Lewis
+  cover:     rails-crash-course.jpg
+  date:      Oct 2014
+  publisher: No Starch Press
+  pages:     296 pages
+
+- title:     "Using JRuby: Bringing Ruby to Java"
+  author:    Charles O Nutter, Thomas Enebo, Nick Sieger, Ola Bini, Ian Dees
+  cover:     using-jruby.jpg
+  publisher: Pragmatic Bookshelf
+  date:      Feb 2011
+  pages:     300 pages
+
+- title:     "JRuby Cookbook"
+  author:    Justin Edelson, Henry Liu
+  cover:     jruby-cookbook.jpg
+  publisher: O'Reilly Media
+  date:      Nov 2008
+  pages:     224 pages
+ 
 
