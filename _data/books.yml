@@ -86,6 +86,23 @@
   date:       Jul 2013
   pages:      888 pages
 
+###################
+# 2012
+
+- title:     "Rails Recipes: Rails 3 Edition"
+  author:    Chad Fowler
+  cover:     rails-recipes.jpg
+  publisher: Pragmatic Bookshelf
+  date:      Apr 2012
+  pages:     296 pages
+
+- title:     "The Rails View: Create a Beautiful and Maintainable User Experience"
+  author:    Bruce Williams, John Athayde
+  cover:     the-rails-view.jpg
+  publisher: Pragmatic Bookshelf
+  date:      Apr 2012
+  pages:     264 pages
+
 
 #############
 # 2011
@@ -114,6 +131,14 @@
   publisher: O'Reilly Media
   pages:     336 pages
 
+- title:     Ruby in Practice
+  author:    Jeremy McAnally, Assaf Arkin
+  cover:     ruby-in-practice.jpg
+  publisher: Manning Publications
+  date:      Apr 2009
+  pages:     360 pages
+
+
 ####################
 # 2008
 
@@ -123,6 +148,13 @@
   publisher: O'Reilly Media
   date:      Nov 2008
   pages:     224 pages
+
+- title:     Advanced Rails Recipes
+  author:    Mike Clark
+  cover:     advanced-rails-recipes.jpg
+  publisher: Pragmatic Bookshelf
+  date:      May 2008
+  pages:     464 pages
 
 - title:     "The Ruby Programming Language"
   author:    David Flanagan, Yukihiro Matsumoto
@@ -135,17 +167,24 @@
 #####################
 # 2007
 
-- title:     "Practical Ruby Gems"
-  author:    David Berube
-  cover:     practical-ruby-gems.jpg
-  publisher: Apress
-  date:      Apr 2007
-  pages:     271 pages
-
 - title:     "Ruby Pocket Reference"
   author:    Michael James Fitzgerald
   cover:     ruby-pocket-reference.jpg
   publisher: O'Reilly Media
   date:      July 2007
   pages:     178 pages
+
+- title:     Practical Rails Social Networking Sites 
+  author:    Alan Bradburne
+  cover:     practical-rails-social-networking-sites.jpg
+  publisher: Apress
+  date:      June 2007
+  pages:     421 pages
+
+- title:     "Practical Ruby Gems"
+  author:    David Berube
+  cover:     practical-ruby-gems.jpg
+  publisher: Apress
+  date:      Apr 2007
+  pages:     271 pages
 
