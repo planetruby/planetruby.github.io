@@ -20,6 +20,15 @@
 ##################
 # 2014
 
+- title:     "Learn Ruby the Hard Way"
+  subtitle:  A Simple and Idiomatic Introduction to the Imaginative World Of Computational Thinking with Code
+  edition:   3rd Edition
+  author:    Zed Shaw
+  cover:     learn-ruby-the-hard-way.jpg
+  publisher: Addison-Wesley Professional (Zed Shaw's Hard Way Series)
+  date:      Dec 2014
+  pages:     336 pages
+
 - title:     "Rails Crash Course: A No-Nonsense Guide to Rails Development"
   author:    Anthony Lewis
   cover:     rails-crash-course.jpg
@@ -53,13 +62,20 @@
 ###################
 # 2013
 
+- title:     "Ruby Under a Microscope - An Illustrated Guide to Ruby Internals"
+  author:    Pat Shaughnessy"
+  cover:     ruby-under-a-microscope.png
+  publisher: No Starch Press
+  date:      Nov 2013
+  pages:     360 pages
+
 - title:     "Build Awesome Command-Line Applications in Ruby"
   subtitle:  Control Your Computer, Simplify Your Life
+  edition:   2nd Edition  
   author:    David B. Copeland 
   cover:     build-command-line-apps-in-ruby.jpg
   date:      Nov 2013
   publisher: Pragmatic Bookshelf
-  edition:   2nd Edition  
   pages:     224 pages
 
 #############
