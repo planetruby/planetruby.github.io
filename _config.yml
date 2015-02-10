@@ -16,6 +16,8 @@ collections:
     output: true
   apps:
     output: true
+  stars:
+    output: true
 
 sass:
   sass_dir: css
