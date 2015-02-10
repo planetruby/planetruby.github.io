@@ -16,7 +16,7 @@ your projects; includes a dynamic plug-in system allowing for easy extensibility
 Hoe ships with plug-ins for all your usual project tasks including rdoc generation,
 testing, packaging, publishing, and announcement.
 
-**ruby_parser - a ruby parser written in pure ruby (using ruby yacc - racc).
+**ruby_parser** - a ruby parser written in pure ruby (using ruby yacc - racc).
 ruby_parser's output is the same as parsetree's output: s-expressions using ruby's arrays and base types.
 Tested against 801,039 files from the latest of all rubygems.
 
