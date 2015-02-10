@@ -1,8 +1,10 @@
 ---
 layout: star
-title: "#2015.2 - Floor Drees - What if you could code all summer long (in Ruby)?!"
+title: "Ruby Star #2015.2 - Floor Drees - What if you could code all summer long?!"
 date:   2015-02-01
 ---
+
+## {{page.title}}
 
 Let's thank Floor Drees for organizing and teaching Ruby to girls and boys.
 
