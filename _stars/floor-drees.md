@@ -37,7 +37,7 @@ Who's the Rails girl with the "If anyone ever tells you you put too much Parmesa
 stop talking to them. You don’t need that kind of negativity in your life." quote on the blog?
 
 Floor Drees - a transplant from the Netherlands (Rotterdam) - now lives in Vienna, Austria
-and likes non-metaphorical bridges and wants to become Neelie Kroes when grow up.
+and likes non-metaphorical bridges and wants to become Neelie Kroes when grown up.
 
 
 ##  References
