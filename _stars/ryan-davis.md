@@ -1,6 +1,6 @@
 ---
 layout: star
-title:  "Ruby Star #2015.1 - Ryan Davis"
+title:  "Ruby Star #2015.1 - Ryan Davis - Polishing Ruby Since 2000"
 ---
 
 ## {{page.title}}
@@ -20,8 +20,8 @@ testing, packaging, publishing, and announcement.
 ruby_parser's output is the same as parsetree's output: s-expressions using ruby's arrays and base types.
 Tested against 801,039 files from the latest of all rubygems.
 
-And many many more gems (e.g. open4, sexp_processor, ruby2ruby, zentest, flog, flay, rubyinline,
-racc, autotest, parsetree, vlad, isolate, and on and on).
+And many many more gems (e.g. open4, sexp_processor, ruby2ruby, zentest, flog, flay, autotest, rubyinline,
+racc, parsetree, vlad, isolate, zenweb, and on and on).
 
 Ryan also writes and updates the popular all-in-one page Ruby Quick Reference covering the
 Ruby Language, the Standard Library and the Tools.
@@ -47,9 +47,8 @@ and try a cup of espresso or cappuccino.
 ## References
 
 - [Blog](http://www.zenspider.com)
-- [Ruby Quick Reference](http://www.zenspider.com/Languages/Ruby/QuickRef.html)
+    - [Ruby Quick Reference](http://www.zenspider.com/Languages/Ruby/QuickRef.html)
 - [Ruby Gems](https://rubygems.org/profiles/zenspider)
 - [GitHub](https://github.com/zenspider)
 - [Seattle.rb](http://www.seattlerb.org)
-
 
