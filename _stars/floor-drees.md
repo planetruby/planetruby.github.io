@@ -1,6 +1,7 @@
 ---
 layout: star
 title: "#2015.2 - Floor Drees - What if you could code all summer long (in Ruby)?!"
+date:   2015-02-01
 ---
 
 Let's thank Floor Drees for organizing and teaching Ruby to girls and boys.
@@ -42,8 +43,8 @@ and likes non-metaphorical bridges and wants to become Neelie Kroes when grow up
 ##  References
 
 - [Blog](http://www.1stfloorgraphics.nl)
+    - [How to bootstrap your monthly User Group meetup](http://www.1stfloorgraphics.nl/2013/05/28/how-to-bootstrap-your-monthly-user-group-meetup/)
 - [Rails Girls](http://railsgirls.com)
 - [Rails Girls Summer of Code](http://railsgirlssummerofcode.org) 
 - [Vienna.rb](http://vienna-rb.at)
-    - [How to bootstrap your monthly User Group meetup](http://www.1stfloorgraphics.nl/2013/05/28/how-to-bootstrap-your-monthly-user-group-meetup/)
 
