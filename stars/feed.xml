@@ -1,0 +1,25 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ruby Star of the Month Series - The World's Greatest Rubyists | {{ site.title }}</title>
+  <link href="{{ site.url }}/stars/feed.xml" rel="self"/>
+  <link href="{{ site.url }}/stars/"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ site.url }}/stars/</id>
+  <author>
+    <name>Planet Ruby Team</name>
+  </author>
+  <generator>Jekyll v{{ jekyll.version }}</generator>
+
+  {% for star in site.stars limit: 10 %}
+  <entry>
+    <title>{{ star.title | xml_escape }}</title>
+    <link href="{{ site.url }}{{ star.url }}"/>
+    <updated>{{ star.date | date_to_xmlschema }}</updated>
+    <id>{{ site.url }}{{ star.url }}</id>
+    <content type="html">{{ star.content | xml_escape }}</content>
+  </entry>
+  {% endfor %}
+</feed>

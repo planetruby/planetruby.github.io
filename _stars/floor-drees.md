@@ -1,14 +1,14 @@
 ---
 layout: star
 title: "Ruby Star #2015.2 - Floor Drees - What if you could code all summer long?!"
-date:   2015-02-01
+date:   2015-02-01 11:11
 ---
 
 ## {{page.title}}
 
 Let's thank Floor Drees for organizing and teaching Ruby to girls and boys.
 
-Floor Drees started the Vienna.rb meetup in Austria's capital city two years ago
+Floor Drees - a transplant from the Netherlands (Rotterdam) - started the Vienna.rb meetup in Austria's capital city two years ago
 and the meetup celebrates this month the twenty-first get-together reaching three-hundred Rubyists.
 
 Floor has (co-)organized or coached at more than a dozen Rails Girls workshops around Europe
@@ -38,13 +38,14 @@ the PyLadies chapter in Vienna among others.
 Who's the Rails girl with the "If anyone ever tells you you put too much Parmesan cheese on you pasta,
 stop talking to them. You don’t need that kind of negativity in your life." quote on the blog?
 
-Floor Drees - a transplant from the Netherlands (Rotterdam) - now lives in Vienna, Austria
+Floor Drees studied Graphics Design at the Willem de Kooning Academy in Rotterdam
+and now lives in Vienna - Austria's capital city in Central Europe -
 and likes non-metaphorical bridges and wants to become Neelie Kroes when grown up.
 
 
 ##  References
 
-- [Blog](http://www.1stfloorgraphics.nl)
+- [Floor Drees's Blog](http://www.1stfloorgraphics.nl)
     - [How to bootstrap your monthly User Group meetup](http://www.1stfloorgraphics.nl/2013/05/28/how-to-bootstrap-your-monthly-user-group-meetup/)
 - [Rails Girls](http://railsgirls.com)
 - [Rails Girls Summer of Code](http://railsgirlssummerofcode.org) 

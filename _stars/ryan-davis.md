@@ -1,6 +1,7 @@
 ---
 layout: star
 title:  "Ruby Star #2015.1 - Ryan Davis - Polishing Ruby Since 2000"
+date:   2015-01-01 11:11
 ---
 
 ## {{page.title}}
@@ -32,6 +33,10 @@ Ruby Language, the Standard Library and the Tools.
 Who's the guy who likes to write code with the "More matter, with less art"  Gertrude quote from
 Hamlet on the blog?
 
+Ryan is an Evergreener and studied and majored
+in computer science at the Evergreen State College (TESC)
+in Olympia, Washington in the Pacific Northwest.
+
 Ryan started using Ruby in 2000 after taking a workshop from
 Andy Hunt and Dave Thomas at the Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA)
 conference - pretty much the same day the Programming Ruby ("Pickaxe") book launched.
@@ -45,11 +50,20 @@ and a proud geoduck.
 and try a cup of espresso or cappuccino.
 
 
+Q: What's the story with the zenspider handle?
+
+A:
+
+> "...they can afford to move so fucking slow, man, they'll wait years and years.
+> Give you a whole life, just so you'll have more to lose when they come
+> and take it away. Patient like a spider. Zen spiders."
+>  -- William Gibson's Neuromancer (chapter 15)
+
+
 ## References
 
-- [Blog](http://www.zenspider.com)
+- [Ryan Davis' Blog](http://www.zenspider.com)
     - [Ruby Quick Reference](http://www.zenspider.com/Languages/Ruby/QuickRef.html)
-- [Ruby Gems](https://rubygems.org/profiles/zenspider)
-- [GitHub](https://github.com/zenspider)
+- [Ryan Davis @ Ruby Gems](https://rubygems.org/profiles/zenspider)
+- [Ryan Davis @ GitHub](https://github.com/zenspider)
 - [Seattle.rb](http://www.seattlerb.org)
-
