@@ -24,7 +24,7 @@ Tested against 801,039 files from the latest of all rubygems.
 And many many more gems (e.g. open4, sexp_processor, ruby2ruby, zentest, flog, flay, autotest, rubyinline,
 racc, parsetree, vlad, isolate, zenweb, and on and on).
 
-Ryan also writes and updates the popular all-in-one page Ruby Quick Reference covering the
+Ryan also writes the all-in-one-page Ruby Quick Reference covering the
 Ruby Language, the Standard Library and the Tools.
 
 
@@ -52,11 +52,10 @@ and try a cup of espresso or cappuccino.
 
 Q: What's the story with the zenspider handle?
 
-A:
-
 > "...they can afford to move so fucking slow, man, they'll wait years and years.
 > Give you a whole life, just so you'll have more to lose when they come
 > and take it away. Patient like a spider. Zen spiders."
+>
 >  -- William Gibson's Neuromancer (chapter 15)
 
 
