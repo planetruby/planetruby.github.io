@@ -9,6 +9,8 @@ title: 'Planet Ruby'
 
 markdown: kramdown
 
+permalink:  /gems/:title.html
+
 collections:
   links:
     output: true
@@ -24,6 +26,7 @@ sass:
 
 include:
 - _data
+- _posts
 
 exclude:
 - README.md
