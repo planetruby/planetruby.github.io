@@ -1,0 +1,3 @@
+[submodule "books"]
+	path = _data/books
+	url = https://github.com/planetruby/books

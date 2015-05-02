@@ -12,8 +12,6 @@ markdown: kramdown
 collections:
   links:
     output: true
-  books:
-    output: true
   apps:
     output: true
   stars:
@@ -24,12 +22,12 @@ sass:
   style:    expanded
 
 
-###
-# todo/check:
-#   possible to exclude *.ini ???
+include:
+- _data
 
 exclude:
 - README.md
+- _data/books/README.md
 - NOTES.md
 
 
