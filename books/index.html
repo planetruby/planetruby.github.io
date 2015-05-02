@@ -19,11 +19,11 @@ title:  "Ruby Books 'n' Screencasts"
 <h2>Ruby</h2>
 
 <div class='gallery'>
-{% for book in site.data.books-ruby %}
+{% for book in site.data.books.ruby %}
   <div class='book'>
     <div class='book-img'>
         <!-- note: scale image to 200px height -->
-        <img src="{{site.url}}/i/books/{{book.cover}}" style="height: 200px; width: auto;">
+        <img src="{{site.url}}/_data/books/i/{{book.cover}}" style="height: 200px; width: auto;">
     </div>
     <div class='book-title'>
         <b>{{ book.title }}</b> by
@@ -40,11 +40,11 @@ title:  "Ruby Books 'n' Screencasts"
 <h2>Ruby on Rails</h2>
 
 <div class='gallery'>
-{% for book in site.data.books-rails %}
+{% for book in site.data.books.rails %}
   <div class='book'>
     <div class='book-img'>
         <!-- note: scale image to 200px height -->
-        <img src="{{site.url}}/i/books/{{book.cover}}" style="height: 200px; width: auto;">
+        <img src="{{site.url}}/_data/books/i/{{book.cover}}" style="height: 200px; width: auto;">
     </div>
     <div class='book-title'>
         <b>{{ book.title }}</b> by
