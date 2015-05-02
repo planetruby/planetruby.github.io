@@ -1,3 +1,6 @@
 [submodule "books"]
 	path = _data/books
 	url = https://github.com/planetruby/books
+[submodule "gems"]
+	path = _posts
+	url = https://github.com/planetruby/gems
