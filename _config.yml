@@ -36,6 +36,7 @@ exclude:
 - _data/links/README.md
 - _data/links/attic
 - NOTES.md
+- attic
 
 
 safe: true
