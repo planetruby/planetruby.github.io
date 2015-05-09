@@ -12,8 +12,6 @@ markdown: kramdown
 permalink:  /gems/:title.html
 
 collections:
-  links:
-    output: true
   apps:
     output: true
   stars:
@@ -23,6 +21,9 @@ sass:
   sass_dir: css
   style:    expanded
 
+##
+# note: include _data, _posts
+#   to get images (in /i) included (from submodules)
 
 include:
 - _data
@@ -31,6 +32,9 @@ include:
 exclude:
 - README.md
 - _data/books/README.md
+- _data/books/attic
+- _data/links/README.md
+- _data/links/attic
 - NOTES.md
 
 
