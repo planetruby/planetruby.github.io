@@ -10,13 +10,17 @@ title:  "Ruby Books 'n' Screencasts"
 </p>
 -->
 
+<!-- todo/fix:
+    use a shared include w/ params partial for book collections!!!
+  -->
+
 
 <h1>{{ page.title }}</h1>
 
 
 {% include welcome-books.html %}
 
-<h2>Ruby</h2>
+<h2 id='ruby'>Ruby</h2>
 
 <div class='gallery'>
 {% for book in site.data.books.ruby %}
@@ -44,10 +48,122 @@ title:  "Ruby Books 'n' Screencasts"
 </div>
 
 
-<h2>Ruby on Rails</h2>
+<h2 id='ruby-style'>Ruby Style / Design Guides</h2>
+
+<div class='gallery'>
+{% for book in site.data.books.ruby_style %}
+  <div class='book'>
+    <div class='book-img'>
+        <!-- note: scale image to 200px height -->
+       <a href="{{ book.book_url }}">
+        <img src="{{site.url}}/_data/books/i/{{book.cover}}" style="height: 200px; width: auto;">
+       </a>
+    </div>
+    <div class='book-title'>
+        <b>{{ book.title }}
+           {% if book.edition %}
+            ({{ book.edition}})
+           {% endif %}
+        </b>
+        by
+        {{ book.author }};
+        {{ book.publisher }},
+        {{ book.date }};
+        {{ book.pages}}
+    </div>
+  </div>
+{% endfor %}
+</div>
+
+
+<h2 id='ruby-core'>Ruby Internals / Metaprogramming</h2>
+
+<div class='gallery'>
+{% for book in site.data.books.ruby_core %}
+  <div class='book'>
+    <div class='book-img'>
+        <!-- note: scale image to 200px height -->
+       <a href="{{ book.book_url }}">
+        <img src="{{site.url}}/_data/books/i/{{book.cover}}" style="height: 200px; width: auto;">
+       </a>
+    </div>
+    <div class='book-title'>
+        <b>{{ book.title }}
+           {% if book.edition %}
+            ({{ book.edition}})
+           {% endif %}
+        </b>
+        by
+        {{ book.author }};
+        {{ book.publisher }},
+        {{ book.date }};
+        {{ book.pages}}
+    </div>
+  </div>
+{% endfor %}
+</div>
+
+
+<h2 id='jruby'>Ruby with Java / JRuby</h2>
+
+<div class='gallery'>
+{% for book in site.data.books.jruby %}
+  <div class='book'>
+    <div class='book-img'>
+        <!-- note: scale image to 200px height -->
+       <a href="{{ book.book_url }}">
+        <img src="{{site.url}}/_data/books/i/{{book.cover}}" style="height: 200px; width: auto;">
+       </a>
+    </div>
+    <div class='book-title'>
+        <b>{{ book.title }}
+           {% if book.edition %}
+            ({{ book.edition}})
+           {% endif %}
+        </b>
+        by
+        {{ book.author }};
+        {{ book.publisher }},
+        {{ book.date }};
+        {{ book.pages}}
+    </div>
+  </div>
+{% endfor %}
+</div>
+
+
+
+<h2 id='rails'>Ruby on Rails</h2>
 
 <div class='gallery'>
 {% for book in site.data.books.rails %}
+  <div class='book'>
+    <div class='book-img'>
+        <!-- note: scale image to 200px height -->
+       <a href="{{ book.book_url }}">
+        <img src="{{site.url}}/_data/books/i/{{book.cover}}" style="height: 200px; width: auto;">
+       </a>
+    </div>
+    <div class='book-title'>
+        <b>{{ book.title }}
+           {% if book.edition %}
+            ({{ book.edition}})
+           {% endif %}
+        </b>
+        {{ book.author }};
+        {{ book.publisher }},
+        {{ book.date }};
+        {{ book.pages}}
+    </div>
+  </div>
+{% endfor %}
+</div>
+
+
+<h2 id='rails-more'>More (Advaned) Ruby on Rails</h2>
+
+<div class='gallery'>
+{% for book in site.data.books.rails_more %}
   <div class='book'>
     <div class='book-img'>
         <!-- note: scale image to 200px height -->
