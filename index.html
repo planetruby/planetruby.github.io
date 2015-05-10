@@ -11,8 +11,16 @@ title:  "Welcome to Planet Ruby"
 <div>
   <h2><a href="http://planetruby.herokuapp.com">Planet Ruby News Reader »</a></h2>
   <p>
-     More than 101+ Ruby and Ruby on Rails Blogs 'n' News Sites
+     More than 101+ Ruby and Ruby on Rails Blogs 'n' News Sites.
+       Topics include:
   </p>
+  <ul>
+    <li>News &amp; Opinions</li>
+    <li>Gems &amp; Open Source Apps</li>
+    <li>Links &amp; Podcasts</li>
+    <li>Hosting &amp; Delivery</li>
+    <li>and many more</li>
+  </ul>
 </div>
 
 <div>
@@ -52,21 +60,39 @@ title:  "Welcome to Planet Ruby"
 </div>
 
 <div>
-  <h2>Awesome ActiveRecord »</h2>
-  <p>
+  <h2><a href="https://github.com/planetruby/awesome-activerecord">Awesome ActiveRecord »</a></h2>
+  <p>A collection of awesome ActiveRecord goodies, libraries, tools, extensions, guides, etc.
   </p>
 </div>
 
 <div>
-  <h2>Ruby Links &amp; Bookmarks »</h2>
+  <h2><a href="http://planetruby.github.io/links">Ruby Links &amp; Bookmarks »</a></h2>
+  <ul>
+    {% for link in site.data.links.ruby limit:3 %}
+       <li>{{ link.title }}</li>
+    {% endfor %}
+      <li>and many more</li>
+  </ul>
 </div>
 
 <div>
-  <h2>Open Source Ruby &amp; Rails Apps »</h2>
+  <h2><a href="http://planetruby.github.io/apps">Open Source Ruby &amp; Rails Apps »</a></h2>
+  <ul>
+    {% for app in site.data.apps.ruby limit:3 %}
+       <li>{{ app.title }}</li>
+    {% endfor %}
+      <li>and many more</li>
+  </ul>
 </div>
 
 <div>
-  <h2>Ruby Star of the Month Series (The World's Greatest Rubyists) »</h2>
+  <h2><a href="http://planetruby.github.io/stars">Ruby Star of the Month Series (The World's Greatest Rubyists) »</a></h2>
+  <ul>
+    {% for star in site.stars limit:3 %}
+       <li>{{ star.title }}</li>
+    {% endfor %}
+      <li>and many more</li>
+  </ul>
 </div>
 
 </div><!-- cards -->
