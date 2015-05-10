@@ -18,8 +18,12 @@ Note: Do NOT forget to commit.
 ## Updating Git Submodules
 
 ~~~
-$ to be done
+$ cd _data/books        # change to the submodule directory
+$ git pull              # update
+$ cd ../..              # get back to your project root
+$ git commit -am "books submodule updated"
 ~~~
+
 
 ## Setup & Updates
 
