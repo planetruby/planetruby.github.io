@@ -18,7 +18,7 @@ title:  "Welcome to Planet Ruby"
 <div>
   <h2><a href="http://planetruby.github.io/gems">Ruby Gem of the Week Series »</a></h2>
   <ul>
-    {% for post in site.posts %}
+    {% for post in site.posts limit:3 %}
        <li>{{ post.title }}</li>
     {% endfor %}
       <li>and many more</li>
@@ -28,20 +28,33 @@ title:  "Welcome to Planet Ruby"
 <div>
   <h2><a href="http://planetruby.github.io/books">Ruby Books &amp; Screencasts »</a></h2>
   <ul>
-    <li>and many more</li>
+    {% for book in site.data.books.ruby limit:3 %}
+       <li>{{ book.title }}</li>
+    {% endfor %}
+      <li>and many more</li>
   </ul>
 </div>
 
 <div>
-  <h2>Awesome Ruby Events »</h2>
+  <h2><a href="https://github.com/planetruby/awesome-events">Awesome Ruby Events »</a></h2>
+  <p>
+     A collection of awesome Ruby events (meetups, conferences, camps, etc.)
+     from around the world
+  </p>
 </div>
 
 <div>
-  <h2>Awesome Rubies »</h2>
+  <h2><a href="https://github.com/planetruby/awesome-rubies">Awesome Rubies »</a></h2>
+  <p>
+     A collection of awesome Rubies (compilers, interpreters, virtual machines, parsers,
+     doc generators, version managers, etc.)
+  </p>
 </div>
 
 <div>
   <h2>Awesome ActiveRecord »</h2>
+  <p>
+  </p>
 </div>
 
 <div>
