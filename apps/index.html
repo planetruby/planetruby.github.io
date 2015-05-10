@@ -28,6 +28,12 @@ title:  "Open Source Ruby 'n' Rails Apps"
     <div class='app-img'>
         <img src="{{site.url}}/_data/apps/i/{{app.screenshot}}">
     </div>
+    <div class='app-title'>
+       <a href="https://github.com/{{app.github}}">[Source]</a>
+       {% if app.demo_url %}
+         <a href="{{ app.demo_url}}">[Demo]</a>
+       {% endif %}
+    </div>
   </div>
 
 {% endfor %}
@@ -46,6 +52,12 @@ title:  "Open Source Ruby 'n' Rails Apps"
     </div>
     <div class='app-img'>
         <img src="{{site.url}}/_data/apps/i/{{app.screenshot}}">
+    </div>
+    <div class='app-title'>
+       <a href="https://github.com/{{app.github}}">[Source]</a>
+       {% if app.demo_url %}
+         <a href="{{ app.demo_url}}">[Demo]</a>
+       {% endif %}
     </div>
   </div>
 
