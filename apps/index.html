@@ -16,19 +16,36 @@ title:  "Open Source Ruby 'n' Rails Apps"
 {% include welcome-apps.html %}
 
 
+<h2>Ruby</h2>
+
 <div class='gallery'>
-{% for app in site.apps %}
+{% for app in site.data.apps.ruby %}
 
   <div class='app'>
     <div class='app-title'>
-      <a href="{{ site.url }}{{ app.url }}">
         {{ app.title }}
-      </a>
     </div>
     <div class='app-img'>
-      <a href="{{ site.url }}{{ app.url }}">
-        <img src="{{site.url}}/i/{{app.screenshot}}">
-      </a>
+        <img src="{{site.url}}/_data/apps/i/{{app.screenshot}}">
+    </div>
+  </div>
+
+{% endfor %}
+</div>
+
+
+
+<h2>Ruby on Rails</h2>
+
+<div class='gallery'>
+{% for app in site.data.apps.rails %}
+
+  <div class='app'>
+    <div class='app-title'>
+        {{ app.title }}
+    </div>
+    <div class='app-img'>
+        <img src="{{site.url}}/_data/apps/i/{{app.screenshot}}">
     </div>
   </div>
 
