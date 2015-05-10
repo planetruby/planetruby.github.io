@@ -12,8 +12,6 @@ markdown: kramdown
 permalink:  /gems/:title.html
 
 collections:
-  apps:
-    output: true
   stars:
     output: true
 
@@ -35,6 +33,8 @@ exclude:
 - _data/books/attic
 - _data/links/README.md
 - _data/links/attic
+- _data/apps/README.md
+- _data/apps/attic
 - NOTES.md
 - attic
 
