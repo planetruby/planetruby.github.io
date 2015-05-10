@@ -23,10 +23,17 @@ title:  "Ruby Books 'n' Screencasts"
   <div class='book'>
     <div class='book-img'>
         <!-- note: scale image to 200px height -->
+       <a href="{{ book.book_url }}">
         <img src="{{site.url}}/_data/books/i/{{book.cover}}" style="height: 200px; width: auto;">
+       </a>
     </div>
     <div class='book-title'>
-        <b>{{ book.title }}</b> by
+        <b>{{ book.title }}
+           {% if book.edition %}
+            ({{ book.edition}})
+           {% endif %}
+        </b>
+        by
         {{ book.author }};
         {{ book.publisher }},
         {{ book.date }};
@@ -44,10 +51,16 @@ title:  "Ruby Books 'n' Screencasts"
   <div class='book'>
     <div class='book-img'>
         <!-- note: scale image to 200px height -->
+       <a href="{{ book.book_url }}">
         <img src="{{site.url}}/_data/books/i/{{book.cover}}" style="height: 200px; width: auto;">
+       </a>
     </div>
     <div class='book-title'>
-        <b>{{ book.title }}</b> by
+        <b>{{ book.title }}
+           {% if book.edition %}
+            ({{ book.edition}})
+           {% endif %}
+        </b>
         {{ book.author }};
         {{ book.publisher }},
         {{ book.date }};

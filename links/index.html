@@ -21,14 +21,14 @@ title:  "Ruby Links 'n' Bookmarks"
 <div class='gallery'>
 {% for link in site.data.links.ruby %}
   <div class='link'>
+    <div class='link-title'>
+        <b>{{ link.title }}</b> by
+        {{ link.author }}
+    </div>
     <div class='link-img'>
        <a href="{{ link.link_url }}">
         <img src="{{site.url}}/_data/links/i/{{link.screenshot}}">
        </a> 
-    </div>
-    <div class='link-title'>
-        <b>{{ link.title }}</b> by
-        {{ link.author }}
     </div>
   </div>
 {% endfor %}
