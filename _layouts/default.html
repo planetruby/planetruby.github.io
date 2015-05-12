@@ -11,8 +11,13 @@
    <link rel="alternate" type="application/atom+xml" href="{{ site.url }}/apps/feed.xml" title="Open Source Ruby 'n' Rails Apps News Feed">
 -->
 </head>
-<body>
+<body  style='margin: 0;'>
 
+  {% include banner.html %}
+
+<!-- wrap in container -->
+<div style='margin: 6px;'>
+   
   <div id="nav">
     <a href="{{ site.url }}">Planet Ruby Welcome</a> •
 
@@ -42,5 +47,6 @@
       {{ content }}
     </div>
 
+</div>
 </body>
 </html>
