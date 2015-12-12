@@ -6,7 +6,7 @@ title:  "Ruby Conference Calendar"
 
 # {{ page.title }}
 
-_Last update on 2015-07-12._
+_Last update on 2015-12-12._
 
 ---
 
@@ -40,15 +40,50 @@ Anything missing? Contributions welcome. Thanks!
 ## 2016
 
 
+**November**
+
+
+Thu-Sat Nov/10-12 (3d) • **[RubyConf](http://rubyconf.org)** @ Cincinnati, Ohio › United States (us) › North America › America
+
+**July**
+
+
+Fri Jul/8 (1d) • **[Brighton Ruby Conference](http://brightonruby.com)** @ Brighton, East Sussex › England (en) › Western Europe › Europe
+
 **May**
 
 
 Wed-Fri May/4-6 (3d) • **[RailsConf](http://railsconf.com)** @ Kansas City, Missouri › United States (us) › North America › America
 
+**April**
+
+
+Thu-Sat Apr/7-9 (3d) • **[RubyConf Philippines](http://rubyconf.ph)** @ Manila › Philippines / Pilipinas (ph) › Asia
+
+Wed-Fri Apr/6-8 (3d) • **[Ancient City Ruby Conference](http://ancientcityruby.com)** @ St Augustine, Florida › Florida › United States (us) › North America › America
+
+**March**
+
+
+Thu+Fri Mar/31+Apr/1 (2d) • **[Ruby on Ales](https://ruby.onales.com)** @ Bend, Oregon › Pacific Northwest › United States (us) › North America › America
+
+Sat+Sun Mar/19+20 (2d) • **[RubyConf India](http://rubyconfindia.org)** @ Kochi, Kerala › India (in) › Asia
+
+Fri-Sun Mar/11-13 (3d) • **[wroc_love.rb](http://www.wrocloverb.com)** @ Wrocław › Poland (pl) › Central Europe › Europe
+
+Fri Mar/11 (1d) • **[Bath Ruby Conference](http://bathruby.org)** @ Bath, Somerset › England (en) › Western Europe › Europe
+
 **February**
 
 
 Wed-Sat Feb/10-13 (4d) • **[RubyConf Australia](http://www.rubyconf.org.au)** @ Gold Coast › Australia (au) › Pacific / Oceania
+
+Thu+Fri Feb/4+5 (2d) • **[RubyFuza](http://www.rubyfuza.org)** @ Cape Town › South Africa (za) › Africa
+
+**January**
+
+
+Sun Jan/31 (1d) • **[Ruby Devroom @ FOSDEM](http://fosdem.rubybelgium.be)** @ Brussels › Belgium / België / Belgique (be) › Western Europe › Europe
 
 ## 2015
 
@@ -67,14 +102,18 @@ Fri Nov/13 (1d) • **[RubyDay](http://www.rubyday.it)** @ Turin › Italy (it) 
 
 Wed+Thu Nov/11+12 (2d) • **[RubyWorld Conference](http://www.rubyworld-conf.org/en)** @ Matsue › Japan (jp) › Asia
 
+Sat+Sun Nov/7+8 (2d) • **[Rails Rumble](https://railsrumble.com)** @ Intertubes › Online
+
 **October**
 
 
-Fri Oct/23 (1d) • **[Keep Ruby Weird](http://keeprubyweird.com)** @ Austin, Texas › Southwest › United States (us) › North America › America
+Fri Oct/23 (1d) • **[Keep Ruby Weird](http://keeprubyweird.com)** @ Austin, Texas › Texas › United States (us) › North America › America
 
 Sat+Sun Oct/17+18 (2d) • **[European Ruby Konference - EuRuKo](http://euruko.org)** @ Salzburg, Austria › Europe
 
 Thu+Fri Oct/15+16 (2d) • **[RubyConf Colombia](http://www.rubyconf.co)** @ Medellin › Colombia (co) › South America › America
+
+Sat Oct/10 (1d) • **[Los Angeles Ruby Conference - LA RubyConf](https://larubyconf.com)** @ Burbank, California › California › United States (us) › North America › America
 
 Thu+Fri Oct/1+2 (2d) • **[ArrrCamp](http://arrrrcamp.be)** @ Ghent, Oost-Vlaanderen › Belgium / België / Belgique (be) › Western Europe › Europe
 
@@ -100,27 +139,29 @@ Fri-Sun Aug/28-30 (3d) • **[RubyCamp Belgium](http://rubycamp.brug.be)** @ Til
 
 Fri+Sat Aug/21+22 (2d) • **[Madison+ Ruby](http://madisonpl.us/ruby)** @ Madison, Wisconsin › Great Lakes › United States (us) › North America › America
 
-Sat Aug/15 (1d) • **[LoneStarRuby Conference](http://lonestarruby.org)** @ Austin, Texas › Southwest › United States (us) › North America › America
+Sat Aug/15 (1d) • **[LoneStarRuby Conference](http://lonestarruby.org)** @ Austin, Texas › Texas › United States (us) › North America › America
+
+Sat Aug/8 (1d) • **[Deccan Ruby Conf](http://www.deccanrubyconf.org)** @ Pune, Maharashtra › India (in) › Asia
 
 Sat+Sun Aug/1+2 (2d) • **[Burlington Ruby Conference](http://www.burlingtonrubyconference.com)** @ Burlington, Vermont › New England › United States (us) › North America › America
 
 **July**
 
 
-Fri-Sun Jul/31-Aug/2 (3d) • **[European Ruby Camp - eurucamp](http://eurucamp.org)** @ Berlin (Potsdam), Germany › Europe
+Fri-Sun Jul/31-Aug/2 (3d) • **[European Ruby Camp - eurucamp](http://eurucamp.org)** @ Potsdam, Brandenburg (Berlin) › Germany / Deutschland (de) › Central Europe › Europe
 
-Fri Jul/31 (1d) • **[JRuby Conference Europe - JRubyConf EU](http://jrubyconf.eu)** @ Berlin (Potsdam), Germany › Europe
+Fri Jul/31 (1d) • **[JRuby Conference Europe - JRubyConf EU](http://jrubyconf.eu)** @ Potsdam, Brandenburg (Berlin) › Germany / Deutschland (de) › Central Europe › Europe
 
 Mon Jul/20 (1d) • **[Brighton Ruby Conference](http://brightonruby.com)** @ Brighton, East Sussex › England (en) › Western Europe › Europe
 
-Wed+Thu Jul/1+2 (2d) • **[RubyMotion Conference - #inspect](http://conference.rubymotion.com)** @ Paris, France › Europe
+Wed+Thu Jul/1+2 (2d) • **[RubyMotion Conference - #inspect](http://conference.rubymotion.com)** @ Paris, France › World
 
 **June**
 
 
 Sat Jun/20 (1d) • **[Gotham Ruby Conference - GORUCO](http://goruco.com)** @ New York, New York › Mid Atlantic › United States (us) › North America › America
 
-Sat Jun/20 (1d) • **[RuPy, RuPy Campinas](http://rupy.com.br)** @ Campinas, São Paulo › Brazil / Brasil (br) › South America › America
+Sat Jun/20 (1d) • **[RuPy Campinas, RuPy](http://campinas.rupy.com.br)** @ Campinas, São Paulo › Brazil / Brasil (br) › South America › America
 
 Thu-Sat Jun/18-20 (3d) • **[MagmaConf](http://magmaconf.com)** @ Manzanillo, Colima › Mexico / México (mx) › North America › America
 
@@ -144,7 +185,7 @@ Sat Apr/25 (1d) • **[Ruby Open Source Software (ROSS) Conference - ROSSConf](h
 
 Tue-Thu Apr/21-23 (3d) • **[RailsConf](http://railsconf.com)** @ Atlanta, Georgia › United States (us) › North America › America
 
-Fri-Sun Apr/3-5 (3d) • **[RubyConf India](http://rubyconfindia.org)** @ Goa › India (in) › Asia
+Fri-Sun Apr/3-5 (3d) • **[RubyConf India](http://rubyconfindia.org)** @ Dona Paula (Vainguinim Beach), Goa › India (in) › Asia
 
 **March**
 
@@ -156,6 +197,8 @@ Sat Mar/21 (1d) • **[Lithuanian Ruby Conference - RubyConfLT](http://rubyconf.
 Fri-Sun Mar/13-15 (3d) • **[wroc_love.rb](http://www.wrocloverb.com)** @ Wrocław › Poland (pl) › Central Europe › Europe
 
 Fri Mar/13 (1d) • **[Bath Ruby Conference](http://bathruby.org)** @ Bath, Somerset › England (en) › Western Europe › Europe
+
+Thu+Fri Mar/5+6 (2d) • **[Ruby on Ales](https://ruby.onales.com)** @ Bend, Oregon › Pacific Northwest › United States (us) › North America › America
 
 Thu-Sun Mar/5-8 (4d) • **[Tropical Ruby](http://tropicalrb.com)** @ Porto de Galinhas, Pernambuco › Brazil / Brasil (br) › South America › America
 
@@ -169,7 +212,7 @@ Wed-Sat Feb/4-7 (4d) • **[RubyConf Australia](http://www.rubyconf.org.au)** @ 
 **January**
 
 
-Sat Jan/10 (1d) • **[Garden City Ruby Conference](http://www.gardencityruby.org)** @ Bangalore › India (in) › Asia
+Sat Jan/10 (1d) • **[Garden City Ruby Conference](http://www.gardencityruby.org)** @ Bangalore, Karnataka › India (in) › Asia
 
 ## 2014
 
@@ -177,7 +220,7 @@ Sat Jan/10 (1d) • **[Garden City Ruby Conference](http://www.gardencityruby.or
 **November**
 
 
-Sat Nov/29 (1d) • **[RuPy, RuPy Campinas](http://rupy.com.br)** @ São José dos Campos, São Paulo › Brazil / Brasil (br) › South America › America
+Sat Nov/29 (1d) • **[RuPy Campinas, RuPy](http://campinas.rupy.com.br)** @ São José dos Campos, São Paulo › Brazil / Brasil (br) › South America › America
 
 Mon-Wed Nov/17-19 (3d) • **[RubyConf](http://rubyconf.org)** @ San Diego, California › United States (us) › North America › America
 
@@ -186,11 +229,15 @@ Thu+Fri Nov/13+14 (2d) • **[RubyWorld Conference](http://www.rubyworld-conf.or
 **October**
 
 
+Fri+Sat Oct/24+25 (2d) • **[RubyConf Argentina](http://rubyconfargentina.org)** @ Buenos Aires › Argentina (ar) › South America › America
+
 Sat+Sun Oct/18+19 (2d) • **[Rails Rumble](https://railsrumble.com)** @ Intertubes › Online
 
 Mon+Tue Oct/13+14 (2d) • **[RubyConf Portugal](http://rubyconf.pt)** @ Braga › Portugal (pt) › Southern Europe › Europe
 
 Thu+Fri Oct/2+3 (2d) • **[ArrrCamp](http://arrrrcamp.be)** @ Ghent, Oost-Vlaanderen › Belgium / België / Belgique (be) › Western Europe › Europe
+
+Thu-Sat Oct/2-4 (3d) • **[Nickel City Ruby](http://nickelcityruby.com)** @ Buffalo, New York › Mid Atlantic › United States (us) › North America › America
 
 **September**
 
@@ -204,12 +251,25 @@ Thu-Sat Sep/18-20 (3d) • **[RubyKaigi](http://rubykaigi.org)** @ Tokyo › Jap
 
 Thu+Fri Aug/28+29 (2d) • **[RubyConf Brasil](http://www.rubyconf.com.br)** @ São Paulo › Brazil / Brasil (br) › South America › America
 
+Fri+Sat Aug/15+16 (2d) • **[Steel City Ruby Conf](http://steelcityruby.org)** @ Pittsburgh, Pennsylvania › Mid Atlantic › United States (us) › North America › America
+
+Mon+Tue Aug/11+12 (2d) • **[Cascadia Ruby](http://cascadiaruby.com)** @ Portland, Oregon › Pacific Northwest › United States (us) › North America › America
+
+Fri-Sun Aug/1-3 (3d) • **[European Ruby Camp - eurucamp](http://eurucamp.org)** @ Berlin › Germany / Deutschland (de) › Central Europe › Europe
+
+Fri Aug/1 (1d) • **[JRuby Conference Europe - JRubyConf EU](http://jrubyconf.eu)** @ Berlin › Germany / Deutschland (de) › Central Europe › Europe
+
 **June**
 
 
 Thu+Fri Jun/26+27 (2d) • **[RedDotRubyConf](http://www.reddotrubyconf.com)** @ Singapore › Singapore (sg) › Asia
 
 Wed-Fri Jun/4-6 (3d) • **[MagmaConf](http://magmaconf.com)** @ Manzanillo, Colima › Mexico / México (mx) › North America › America
+
+**May**
+
+
+Fri+Sat May/23+24 (2d) • **[RubyConf Uruguay](http://rubyconfuruguay.org)** @ Montevideo › Uruguay (uy) › South America › America
 
 **April**
 
@@ -225,16 +285,37 @@ Tue-Fri Apr/22-25 (4d) • **[RailsConf](http://railsconf.com)** @ Chicago, Illi
 
 Fri+Sat Mar/28+29 (2d) • **[RubyConf Philippines](http://rubyconf.ph)** @ Manila › Philippines / Pilipinas (ph) › Asia
 
+Sat+Sun Mar/22+23 (2d) • **[RubyConf India](http://rubyconfindia.org)** @ Canacona (Goan Coastline), Goa › India (in) › Asia
+
 ## 2013
 
+
+**August**
+
+
+Fri-Sun Aug/16-18 (3d) • **[European Ruby Camp - eurucamp](http://eurucamp.org)** @ Berlin › Germany / Deutschland (de) › Central Europe › Europe
+
+Wed+Thu Aug/14+15 (2d) • **[JRuby Conference Europe - JRubyConf EU](http://jrubyconf.eu)** @ Berlin › Germany / Deutschland (de) › Central Europe › Europe
 
 **June**
 
 
 Fri+Sat Jun/28+29 (2d) • **[European Ruby Konference - EuRuKo](http://euruko.org)** @ Athens, Greece › Europe
 
+**March**
+
+
+Thu+Fri Mar/28+29 (2d) • **[RubyMotion Conference - #inspect](http://conference.rubymotion.com)** @ Brussels, Belgium › World
+
 ## 2012
 
+
+**August**
+
+
+Fri-Sun Aug/17-19 (3d) • **[European Ruby Camp - eurucamp](http://eurucamp.org)** @ Berlin › Germany / Deutschland (de) › Central Europe › Europe
+
+Fri Aug/17 (1d) • **[JRuby Conference Europe - JRubyConf EU](http://jrubyconf.eu)** @ Berlin › Germany / Deutschland (de) › Central Europe › Europe
 
 **June**
 
@@ -248,6 +329,8 @@ Fri+Sat Jun/1+2 (2d) • **[European Ruby Konference - EuRuKo](http://euruko.org
 
 
 Sat+Sun May/28+29 (2d) • **[European Ruby Konference - EuRuKo](http://euruko.org)** @ Berlin, Germany › Europe
+
+Sat+Sun May/28+29 (2d) • **[European Ruby Camp - eurucamp](http://eurucamp.org)** @ Berlin › Germany / Deutschland (de) › Central Europe › Europe
 
 ## 2010
 
@@ -323,6 +406,8 @@ Fri-Sun Oct/20-22 (3d) • **[RubyConf](http://rubyconf.org)** @ Denver, Colorad
 
 **June**
 
+
+Thu-Sun Jun/22-25 (4d) • **[RailsConf](http://railsconf.com)** @ Chicago, Illinois › United States (us) › North America › America
 
 Sat+Sun Jun/10+11 (2d) • **[RubyKaigi](http://rubykaigi.org)** @ Koutou, Tokyo › Japan (jp) › Asia
 
