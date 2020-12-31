@@ -3,10 +3,10 @@
 
 Welcome.  Home of:
 
-- [Best of Ruby Gems Series](/gems)
-- [All Ruby Books](/books)
-- [Ruby Conferences & Camps](/conferences)
-- [Ruby Quiz](/quiz)
+- [**/gems**](/gems) - Best of Ruby Gems Series
+- [**/books**](/books) - All Ruby Books
+- [**/conferences**]/conferences - Ruby Conferences & Camps
+- [**/quiz**](/quiz) - Ruby Quiz
 - [and more](https://github.com/planetruby)
 
 
