@@ -1,0 +1,48 @@
+###########
+# site.url, site.title
+
+url:   'http://planetruby.github.io'
+title: 'Planet Ruby'
+
+########
+# more settings
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+permalink:  /gems/:title.html
+
+collections:
+  stars:
+    output: true
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+##
+# note: include _data, _posts
+#   to get images (in /i) included (from submodules)
+
+include:
+- _data
+- _posts
+
+exclude:
+- README.md
+- _data/books/README.md
+- _data/books/attic
+- _data/links/README.md
+- _data/links/attic
+- _data/apps/README.md
+- _data/apps/attic
+- NOTES.md
+- attic
+
+
+safe: true
+lsi: false
+
