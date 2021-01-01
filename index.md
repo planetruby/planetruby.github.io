@@ -10,6 +10,7 @@ Welcome.  Home of:
     - [**/2020**](/conferences/2020)
     - [**/2019**](/conferences/2019)
 - [**/quiz**](/quiz) - Ruby Quiz
+- [**/changes**](/changes) - All About 3x3 and Ruby Version Changes 2.5, 2.6, 2.7, 3.0 
 - [and more](https://github.com/planetruby)
 
 
