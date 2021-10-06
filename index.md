@@ -14,6 +14,11 @@ Welcome.  Home of:
 - [and more](https://github.com/planetruby)
 
 
+Updates:
+
+[**Case Studies of Code of Conduct "Cancel Culture" Out-Of-Control Power Abuse - Ruby - A Call for Tolerance On Ruby-Talk Results In Ban On Reddit Ruby**](https://github.com/chooseaconduct/chooseaconduct.github.io/blob/master/casestudies/ruby.md)
+
+
 
 {% include footer.html %}
 
