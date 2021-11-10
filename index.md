@@ -1,13 +1,6 @@
 # Planet Ruby
 
-
-
-> You have been permanently banned from participating in r/ruby (because of your writing off / outside of r/ruby).
-> I do not see your participation adding anything to this community.   
->
-> -- Richard Schneeman (r/ruby Mod) 
-
-[**Case Studies of Code of Conduct "Cancel Culture" Out-Of-Control Power Abuse - Ruby - A Call for Tolerance On Ruby-Talk Results In Ban On Reddit Ruby**](https://github.com/chooseaconduct/chooseaconduct.github.io/blob/master/casestudies/ruby.md)
+{% include cancelculture.html %}
 
 ---
 
