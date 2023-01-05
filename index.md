@@ -9,6 +9,7 @@ Welcome.  Home of:
 - [**/gems**](/gems) - Best of Ruby Gems Series
 - [**/books**](/books) - All Ruby Books
 - [**/conferences**](/conferences) - Ruby Conferences & Camps
+    - [**/2023**](/conferences/2023)
     - [**/2022**](/conferences/2022)
     - [**/2021**](/conferences/2021)
     - [**/2020**](/conferences/2020)
